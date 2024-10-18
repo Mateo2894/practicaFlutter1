@@ -1,0 +1,5 @@
+package com.luisangel.appprimera
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
